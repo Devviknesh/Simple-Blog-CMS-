@@ -12,7 +12,7 @@ Responsive design for seamless experience on all devices
 
 Rich text editor for blog content
 
-Comment section for user engagement
+Comment 
 
 Technologies Used
 
